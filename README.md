@@ -8,7 +8,7 @@ This framework helps you to importing other html files in your html file
 
 Add a script tag to your html file
 ```html
-<script src="https://https://shamyakgoel.github.io/loadframework/load.js"></script>
+<script src="https://shamyakgoel.github.io/loadframework/load.js"></script>
 ```
 This will load both framework and jQuery<br>
 **_Note: If you already have jQuery in your website, this will not import jQuery._**
